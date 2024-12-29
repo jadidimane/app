@@ -163,9 +163,7 @@ class _RegisterPageState extends State<RegisterPage> {
                             const Color.fromARGB(255, 196, 152, 207)),
                     onPressed: () {
                       if (_formkey.currentState!.validate()) {
-                        ScaffoldMessenger.of(context).showSnackBar(
-                            SnackBar(content: Text("Processing Login")));
-                        Navigator.pushNamed(context, '/login');
+                        SignUp();
                       }
                     },
                     child: Text(
