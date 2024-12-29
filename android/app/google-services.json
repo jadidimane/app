@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "294687460747",
+    "project_id": "ayajojoimane",
+    "storage_bucket": "ayajojoimane.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294687460747:android:c21712084599c30d31b38e",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4L7Bj3Ya6pdfDvFVVXE63hmIUxORBNKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
